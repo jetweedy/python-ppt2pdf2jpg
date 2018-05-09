@@ -3,7 +3,8 @@
 ## Author
 [Jonathan Tweedy](https://jonathantweedy.com)
 
-##Overview
+
+## Overview
 
 These files are used to convert ppt(x) files to pdfs, and then to convert the first pages of those pdfs to jpgs. 
 It is primarily used to post presentations with thumbnails on the Carolina Health Informatics Program website.
